@@ -1,0 +1,62 @@
+body {
+
+    background-color: #98FB98;
+}
+
+header {
+    text-align: center;
+    padding: 30px;
+    border-bottom: 2px solid purple;
+    display: block;
+}
+
+.header-link {
+    color: purple;
+    margin: 0 15px;
+}
+
+.link {
+    color: purple;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+.title {
+    text-align: center;
+}
+
+.imgwrapper {
+    display: block;
+    padding: 20px;
+    border: 50px;
+}
+
+.myphoto {
+    display: block;
+    margin: 0 auto;
+}
+
+#about {
+    border-left: 5px solid purple;
+    padding-left: 10px;
+    margin-top: 20px;
+}
+
+#hibp {
+    border-left: 5px solid purple;
+    padding-left: 10px;
+    margin-top: 20px;
+}
+
+#contacts {
+    border-left: 5px solid purple;
+    padding-left: 10px;
+    margin-top: 20px;
+}
+
+div p {
+    float: left;
+}
+
+
